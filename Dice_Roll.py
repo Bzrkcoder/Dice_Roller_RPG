@@ -1,5 +1,6 @@
 import random
 
+#Aqui são as funções de cada dado
 
 def rolard2(rolagens):
     lista = []
@@ -74,6 +75,8 @@ def rolard100(rolagens):
     s = sum(lista)
     print('{} Resultado: {}'.format(lista, s))
 
+#Aqui é o menu
+    
 def imprimir_menu():
     print('Seja bem vindo ao Dice Roll!')
     print('d2 - Dado de dois lados ')
