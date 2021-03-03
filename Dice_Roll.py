@@ -1,6 +1,6 @@
 import random
 
-#Aqui são as funções de cada dado
+#Aqui ficam as funções de cada dado
 
 def rolard2(rolagens):
     lista = []
